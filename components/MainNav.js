@@ -8,7 +8,7 @@ function MainNav() {
     <>
       <Navbar expand="lg" className="fixed-top navbar-dark" style={{ backgroundColor: '#344e41' }}>
         <Container>
-          <Navbar.Brand>Shyam Patel</Navbar.Brand>
+          <Navbar.Brand>House Hunt</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
